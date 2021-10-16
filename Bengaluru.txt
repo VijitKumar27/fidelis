@@ -1,0 +1,24 @@
+Murder 200
+Rape_total 200
+Kidnapping & Abduction_Total 700
+Dacoity_total 400
+Robbery 1000
+Criminal Trespass/Burglary 1000
+Theft 5000
+Unlawful Assembly 5
+Riots 350
+Cheating 2500
+Forgery 50
+Counterfeit_Total 100
+Arson 100
+Grievous Hurt 250
+Dowry Deaths 100
+Assault on Women with intent to outrage her Modesty 650
+Sexual Harassment 55
+Stalking 25
+Importation of Girls from Foreign Country 5
+Disclosure of Identity of Victims 5
+Incidence of Rash Driving 4000
+HumanTrafficking 15
+Total Cognizable IPC crimes 20000
+241,312,708,449,1067,1542,11455,0,388,3045,43,87,100,217,57,680,53,19,0,0,4315,12,31892
