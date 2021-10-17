@@ -65,7 +65,7 @@
             <li><a class="scroll" href="">&nbsp</a></li>
             <li><a class="scroll" href="">&nbsp</a></li>
             <li><a class="scroll" href="login.php">Login</a></li>
-            <li><a class="scroll" href="signuo.php">Sign-up</a></li>
+            <li><a class="scroll" href="signup.php">Sign-up</a></li>
 
           
 
